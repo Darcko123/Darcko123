@@ -43,17 +43,20 @@ Este repositorio contiene ejemplos organizados por categorías para trabajar con
 - Raspberry Pi OS
 - Git y GitHub
 
-## 📈 En desarrollo
-
-Actualmente me encuentro ampliando ambos repositorios con documentación, ejemplos avanzados y mejoras en la estructura del código. Próximamente incluiré proyectos integradores que combinen visión computacional y control embebido.
+---
+## 🔥 Estadísticas
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darcko123&theme=highcontrast&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+---
 
 ## 📬 Contacto
 
 ¿Interesado en colaborar o conocer más sobre mis proyectos?
 
-- 📧 Email: daniel18052002@yahoo.com
-- 🌐 LinkedIn: [Daniel Ruiz](www.linkedin.com/in/daniel-alejandro-ruiz-díaz-340b6328a)
+[![Email](https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=email&logoColor=black)](daniel18052002@yahoo.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-alejandro-ruiz-díaz-340b6328a)
 
----
+## 📈 En desarrollo
+
+Actualmente me encuentro ampliando ambos repositorios con documentación, ejemplos avanzados y mejoras en la estructura del código. Próximamente incluiré proyectos integradores que combinen visión computacional y control embebido.
 
 > Este repositorio está en constante crecimiento como parte de mi formación y portafolio profesional. ¡Gracias por visitar!
