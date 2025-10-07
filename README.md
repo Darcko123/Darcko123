@@ -53,7 +53,7 @@ Este repositorio contiene ejemplos organizados por categorías para trabajar con
 ¿Interesado en colaborar o conocer más sobre mis proyectos?
 
 [![Email](https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=email&logoColor=black)](daniel18052002@yahoo.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-alejandro-ruiz-díaz-340b6328a)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-ruiz-d%C3%ADaz-340b6328a)
 
 ## 📈 En desarrollo
 
