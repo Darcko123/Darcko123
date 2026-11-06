@@ -90,7 +90,7 @@ Formo parte de la organización [Electronic Cats](https://github.com/ElectronicC
 ## Estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Darcko123&theme=highcontrast&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+[!DarckoStats](https://github-stats-extended.vercel.app/api?username=Darcko123&show_icons=true&theme=tokyonight)
 [![Logros](https://img.shields.io/badge/logros-Pull_Shark_x2_%7C_Pair_Extraordinaire-2088FF)](https://github.com/Darcko123?tab=achievements)
 
 ---
